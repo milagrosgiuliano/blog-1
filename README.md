@@ -8,7 +8,7 @@
 <body>
   <h1>Mi blog personal</h1>
   <p>Bienvenidos a mi blog. Voy a compartir con ustedes un poco acerca de mi , mis opiniones, mis gustos, mis pasatiempos, etc.  .</p>
-  <a href="[about.html]">Sobre mí</a> 
+  <a href="[about me]">Sobre mí</a> 
   
   <hr>
   
