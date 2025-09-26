@@ -8,20 +8,15 @@
 <body>
   <h1>Mi blog personal</h1>
   <p>Bienvenidos a mi blog. Voy a compartir con ustedes un poco acerca de mi , mis opiniones, mis gustos, mis pasatiempos, etc.  .</p>
-
-  <a href=about.html>Sobre mí</a>
-
+  <a href="about.html">Sobre mí</a>
   <hr>
-
   <!-- Publicación 1 -->
   <h2>Mis hobbies favoritos</h2>
   <p><strong>Autor:</strong> Milagros Catalina Giuliano</p>
   <p><strong>Fecha:</strong> 18 de septiembre de 2025</p>
   <p>Durante mi tiempo libre me gusta poder descansar un poco de mi rutina y buscar recetas online para hacer y luego poder disfrutar de mi preparación mientras miro una serie. También, me gusta ser productiva y mantenerme activa, por lo que opto por ir al gimnasio siempre que esto libre para despejarme y fortalecerme; además de que tener amigos ahí ayuda.</p>
 
-
   <hr>
-
   <!-- Publicación 2 -->
   <h2>Mi último viaje</h2>
   <p><strong>Autor:</strong> Milagros Catalina Giuliano</p>
@@ -29,7 +24,6 @@
   <p>Hace poco tuve la oportunidad de conocer uno de los lugares más lindos visitados de mi país, el sur de Argentina, más específicamente Ushuaia. El motivo de esta visita, a parte del turismo fue la pate recreativa. Junto con mi familia elegimos este destino para poder disfrutar esquiar por las montañas del Cerro Castor. Hicimos tour por la ciudad, yendo a los citios más conocidos como el museo del presidio y fin del mundo. Luego, pasamos nuestras mañanas y tardes esquiando  terminamos nuestro día disfrutando de las comodidades del hotel y creando recuerdos en familia.</p>
 
   <hr>
-
   <!-- Publicación 3 -->
   <h2>Mi vida en 10 años</h2>
   <p><strong>Autor:</strong> Milagros Catalina Giuliano</p>
@@ -43,7 +37,6 @@
   <p><strong>Autor:</strong> Milagros Catalina Giuliano</p>
   <p><strong>Fecha:</strong> 21 de agosto de 2025</p>
   <p>Siempre consideré seguir por el lado económico a que me gustaría saber y desenvolverme bien en ese aspecto, para poder trabajar en una empresa y liderarla. Por esto es que elegí estudiar en la UADE, que tiene gran bolsa laboral y es muy moderna, Doble Titulación en Administración de Empresas  Mrketing. Me resulta muyy interesante saber estudiar el mercado  la creatividad requerida en pensar estrategias para mejorar, y también tener un poco de conocimiento sobre todo para que mis opciones sean más también.</p>
-
 
   <hr>
 
