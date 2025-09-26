@@ -1,5 +1,4 @@
 # blog-1
-<main>about.html</main>
 <!DOCTYPE html>
 <html lang="es">
 <head>
