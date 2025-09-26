@@ -8,7 +8,7 @@
 <body>
   <h1>Mi blog personal</h1>
   <p>Bienvenidos a mi blog. Voy a compartir con ustedes un poco acerca de mi , mis opiniones, mis gustos, mis pasatiempos, etc.  .</p>
-  <a href="about me">Sobre mí</a>
+  <a href="[about.html](https://github.com/milagrosgiuliano/blog-1/blob/cae86da1e569cf0f191b8295ba20509dd2625f6b/about%20me)">Sobre mí</a> 
   <hr>
   <!-- Publicación 1 -->
   <h2>Mis hobbies favoritos</h2>
