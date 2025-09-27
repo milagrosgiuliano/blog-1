@@ -50,3 +50,27 @@
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Sobre mí - Mi Blog</title>
+</head>
+<body>
+  <h1>Sobre el blog "Mi Blog Personal"</h1>
+
+    <p>Hola, soy Milagros Catalina Giuliano, la autora de este blog. Me gusta escribir sobre mi vida, mis intereses, lo que aprendo y mucho más.</p>
+  <p>Este blog nació como parte de un trabajo práctico para mostrar mis habilidades con HTML y GitHub Pages.</p>
+
+  <h2>Un poco más sobre mí:</h2>
+  <ul>
+    <li>Estudiante de nivel secundario en el Colegio Calasanz</li>
+    <li>Apasionado por la moda yy el deporte</li>
+    <li>Estoy apediendo a hacer proyectos escolares usando HTML y CSS</li>
+    <li>Actualmente juego al voley en sub 18 en el Club Ferro Carril Oeste</li>
+  </ul>
+
+  <a href="index.html">← Volver al blog</a>
+</body>
+</html>
